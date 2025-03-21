@@ -1,5 +1,4 @@
-# 🚀 AI Architect Roadmap – 25 Days to Master AI Consulting
-
+# 🚀 AI Architect Roadmap
 **Overview:**  
 This repository documents my 25-day journey to build essential skills for an AI Consultant role. Each day is captured in a dedicated Jupyter Notebook that covers key topics—from AI architecture and machine learning fundamentals to MLOps, cloud deployments, and ethical AI practices.
 
